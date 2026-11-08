@@ -1,0 +1,1 @@
+{"cmd": "SCENE=l9d_scene.py SHOT=d6_healed FRAMES=950 SAMPLES=16 RW=1280 RH=720 bash run_l9.sh", "merge": "SHOT=d6_healed FRAMES=950 bash l9_merge.sh", "workers": 1}
