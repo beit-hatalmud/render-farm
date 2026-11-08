@@ -1,0 +1,1 @@
+{"cmd": "SHOT=a2_zero FRAMES=790 SAMPLES=16 RW=1280 RH=720 bash run_l9.sh", "merge": "SHOT=a2_zero FRAMES=790 bash l9_merge.sh", "workers": 1}
