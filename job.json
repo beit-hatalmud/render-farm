@@ -1,0 +1,1 @@
+{"cmd": "python3 pf_render.py productions/toldot10g_3d/film_s2/film_s2.html", "merge": "python3 pf_render.py --merge film_s2.mp4", "workers": 3}
