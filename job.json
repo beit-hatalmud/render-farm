@@ -1,0 +1,1 @@
+{"cmd": "pip install -q pillow numpy && bash premerge.sh && python3 compose.py --root . --part $SHARD --parts 4 --outdir out", "merge": "python3 compose.py --root . --merge --parts 4 --outdir out", "workers": 1}
