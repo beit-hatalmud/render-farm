@@ -1,0 +1,1 @@
+{"cmd": "PLAN=plan_H6.json SAMPLES=16 RW=1280 RH=720 bash run.sh", "merge": "SHOTLIST='H6' bash merge.sh", "workers": 1}
