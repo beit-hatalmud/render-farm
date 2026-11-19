@@ -1,0 +1,1 @@
+{"cmd": "python3 pf_stills12_remote.py productions/toldot12_v3/film_opener/film_opener.html --pairs o1_takeoff:15.26", "merge": "", "workers": 1}
