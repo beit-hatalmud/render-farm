@@ -1,0 +1,1 @@
+{"cmd": "python3 pf_page12_remote.py productions/toldot12_v3/film_z/film_z.html --mode seek --pairs a3d:0.9,arope:7,brope:15,b3d:18.6,zdrop:21.2,zbloom:24.5,zspread:28,zend:31.2", "merge": "", "workers": 1}
